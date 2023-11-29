@@ -1,0 +1,8 @@
+{
+  "name": "planty",
+  "version": "1.0.0",
+  "description": "A home landscape plant manager",
+  "main": "index.js",
+  "author": "Joey Vargas",
+  "license": "MIT"
+}
